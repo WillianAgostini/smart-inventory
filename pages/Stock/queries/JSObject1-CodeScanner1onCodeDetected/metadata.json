@@ -2,8 +2,8 @@
   "pluginType": "JS",
   "pluginId": "js-plugin",
   "unpublishedAction": {
-    "name": "data_tableprimaryColumnscustomColumn1onClick",
-    "fullyQualifiedName": "saveToNavigate.data_tableprimaryColumnscustomColumn1onClick",
+    "name": "CodeScanner1onCodeDetected",
+    "fullyQualifiedName": "JSObject1.CodeScanner1onCodeDetected",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -14,7 +14,7 @@
       "userPermissions": []
     },
     "pageId": "Stock",
-    "collectionId": "Stock_saveToNavigate",
+    "collectionId": "Stock_JSObject1",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -36,9 +36,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-07-19T16:00:21Z"
+    "createdAt": "2024-07-20T20:37:32Z"
   },
-  "id": "Stock_saveToNavigate.data_tableprimaryColumnscustomColumn1onClick",
+  "id": "Stock_JSObject1.CodeScanner1onCodeDetected",
   "deleted": false,
-  "gitSyncId": "66995d28f53b9e7ba985beae_0c48ba6b-97c7-496e-a01a-8db3fb6a21d6"
+  "gitSyncId": "669c1b3ff53b9e7ba985bf2b_4565ec90-d82b-4028-8fc9-51625365356f"
 }

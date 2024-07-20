@@ -1,6 +1,5 @@
 export default {
-	data_tableprimaryColumnscustomColumn1onClick (currentRow) {
-		console.log(currentRow)
-		//	write code here
+	CodeScanner1onCodeDetected () {
+		console.log(CodeScanner1.value)
 	}
 }
