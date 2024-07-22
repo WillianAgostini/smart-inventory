@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Edit",
-    "slug": "edit",
+    "name": "Create",
+    "slug": "create",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 510,
+          "bottomRow": 440,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Edit",
+        "id": "Create",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -40,5 +40,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "66995d28f53b9e7ba985beae_789337de-4daf-4684-be2e-43d75d461887"
+  "gitSyncId": "669c1b3ff53b9e7ba985bf2b_d4d80ffa-4795-4057-a7b7-129339fefbee"
 }

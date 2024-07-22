@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "BarCodeToInput",
+    "pageId": "Create",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Create_BarCodeToInput",
+  "deleted": false,
+  "gitSyncId": "669c1b3ff53b9e7ba985bf2b_3ab40039-8446-4c58-88ef-d1d75d1ede47"
+}

@@ -7,6 +7,10 @@
     {
       "id": "Stock",
       "isDefault": true
+    },
+    {
+      "id": "Create",
+      "isDefault": false
     }
   ],
   "viewMode": false,
